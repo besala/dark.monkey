@@ -1,0 +1,45 @@
+nav{
+	background: rgba(0, 0, 0, 0.0);
+	width: 13%;
+	border-bottom: 0px solid darkgreen;
+	position: left;
+	float: left;
+}
+nav ul{
+	float: right;
+	display: flex;
+	list-style: none;
+}
+nav ul li a{
+	color: darkgreen;
+	line-height: 2px;
+	list-style: none;
+	padding: 12px 40px;
+	font-size: 18px;
+	text-decoration: none;
+	border-radius: 3px;
+	scroll-margin-left: 60vh;
+	float: right;
+	width: 7px;
+}
+nav ul li a:hover{
+	background-color: none;
+}
+nav ul a{
+	color: darkgreen;
+	line-height: 20px;
+	list-style: none;
+	padding: 12px 40px;
+	font-size: 20px;
+	text-decoration: none;
+	border-radius: 6px;
+	margin-right: 10px;
+}
+body{
+	background-image: url(file:///C:/Users/DEME/Desktop/lashx/dark.jpg);
+	background-size: 100% 100vh;
+}
+img{
+	height: 25.7vh;
+	width: 22vh;
+}
